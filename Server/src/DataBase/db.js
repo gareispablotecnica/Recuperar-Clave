@@ -8,7 +8,7 @@ const db= new SQLite.Database(dbUbicacion, (Error) => {
         console.error('Error al Conectar a la Base de Datos: ⛔', Error);
     } else {
         console.log('Conexión a la Base de Datos establecida ✅');
-        ñ
+        asasasa
     }
 });
 
